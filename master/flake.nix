@@ -9,7 +9,7 @@
   
   inputs.src-lz77-master.flake = false;
   inputs.src-lz77-master.owner = "sealmove";
-  inputs.src-lz77-master.ref   = "refs/heads/master";
+  inputs.src-lz77-master.ref   = "master";
   inputs.src-lz77-master.repo  = "LZ77";
   inputs.src-lz77-master.type  = "github";
   
